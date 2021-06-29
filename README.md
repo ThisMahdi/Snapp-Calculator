@@ -2,10 +2,16 @@
 How much money did you spend for Snapp! ?
 
 ## How does it work?
-actully it is not a GUI application :)) but it will do the best for you ;)! this code works with Selenium (module that uses Webscrape system). If you do not know what is WebScraping? it's a browser RoBot based. When you run the code, browser will pop up and do the job all automatically. What are you waiting for? let's go!!!!!!!
+actully it is not a GUI application :)) but it will do the best for you ;)! this code works with Selenium (module that uses Webscrape system). If you do not know what is WebScraping? it's a browser RoBot based. When you run the code, browser will pop up and do the job all automatically. What are you waiting for? let's go!!!!!!! :bowtie:
 
 ## Attention!
-In one section of this code, you have to enter a verification code from your mobile phone manually! because we can't access to our phone to read that damn verification code :D. so, forgive me.
+In one section of this code, you have to enter a verification code from your mobile phone manually! because we can't access to our phone to read that ~~damn~~ verification code :D. ***so, forgive me.***
+
+**another thing** you should do is that to put your phone number here in code :
+```
+input_phone_number.send_keys("HERE GYUS!")
+```
+Thanks! :trollface:
 
 ## Requirements :
 
@@ -32,4 +38,5 @@ Hope u enjoy!
 
 ## Found any BUG???
 wow nice! i really appreciate a guy who tell me about the bugs of this code :)
+> you can send me bugs on Telegram : @ThisisMahdi
 
