@@ -9,7 +9,7 @@ In one section of this code, you have to enter a verification code from your mob
 
 **another thing** you should do is that to put your phone number here in code :
 ```
-input_phone_number.send_keys("HERE GYUS!")
+input_phone_number.send_keys("HERE GUYZZ!")
 ```
 Thanks! :trollface:
 
