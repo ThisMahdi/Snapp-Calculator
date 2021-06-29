@@ -33,10 +33,12 @@ to run code use the command below in your terminal :
 ```Python
 python3 Snapp.py
 ```
-##
-Hope u enjoy!
+## What is the output?
+it will create a Excel file and generate a number that shows you the money you have already spent for Snapp!
 
 ## Found any BUG???
 wow nice! i really appreciate a guy who tell me about the bugs of this code :)
 > you can send me message about the Bugs you have founded on Telegram : @ThisisMahdi
 
+##
+Hope u enjoy!
