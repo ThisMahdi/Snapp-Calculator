@@ -1,4 +1,4 @@
-# SnapCalculator
+# SnappCalculator
 How much money did you spend for Snapp! ?
 
 ## How does it work?
