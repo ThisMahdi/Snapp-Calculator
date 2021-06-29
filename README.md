@@ -38,5 +38,5 @@ Hope u enjoy!
 
 ## Found any BUG???
 wow nice! i really appreciate a guy who tell me about the bugs of this code :)
-> you can send me bugs on Telegram : @ThisisMahdi
+> you can send me message about the Bugs you have founded on Telegram : @ThisisMahdi
 
