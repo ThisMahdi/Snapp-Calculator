@@ -60,8 +60,7 @@ def Snapp_Calculator():
 
     counter = 14
     trip_box = driver.find_elements_by_class_name("_3e91kz")
-
-
+    
     for scroll in p_tags:
         try:
             # scroll down to load all components
@@ -87,7 +86,6 @@ def Snapp_Calculator():
     all_price = sum(prices)
     print(f"Shoma ta be hal ({all_price}) Rial hazine Snapp kardid!")
 
-    
 if __name__ == "__main__":
     Snapp_Calculator()
     
